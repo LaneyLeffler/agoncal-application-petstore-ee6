@@ -1,4 +1,4 @@
-# Application - Petstore Java EE 6
+**Application#- Petstore Java EE 6
 
 * *Author* : [Antonio Goncalves](http://www.antoniogoncalves.org)
 * *Level* : Intermediate
@@ -106,7 +106,7 @@ I use [Silk Icons](http://www.famfamfam.com/lab/icons/silk/) which are in Creati
 
 Some people who worked on this project :
 
-* [Antoine Sabot-Durand](https://twitter.com/#!/antoine_sd)
+* [Antoine Sabot-Durand](https://twitter.com/#*/antoine_sd)
 * [Brice Leporini](https://twitter.com/#!/blep)
 * Hervé Le Morvan
 
@@ -121,3 +121,4 @@ Some people who worked on this project :
 <div class="footer">
     <span class="footerTitle"><span class="uc">a</span>ntonio <span class="uc">g</span>oncalves</span>
 </div>
+ 
