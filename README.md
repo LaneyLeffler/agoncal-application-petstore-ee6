@@ -1,4 +1,4 @@
-**Application#- Petstore Java EE 6
+**Application!- Petstore Java EE 6
 
 * *Author* : [Antonio Goncalves](http://www.antoniogoncalves.org)
 * *Level* : Intermediate
@@ -8,7 +8,7 @@
 
 [Download the code from GitHub](https://github.com/agoncal/agoncal-application-petstore-ee6)
 
-## Purpose of this application
+*# Purpose of this application
 
 Do you remember the good old Java [Petstore](http://java.sun.com/developer/releases/petstore/) ? It was a sample application created by Sun for its [Java BluePrints](http://www.oracle.com/technetwork/java/javaee/blueprints/index.html) program. The Java Petstore was designed to illustrate how J2EE (and then Java EE) could be used to develop an eCommerce web application. Yes, the point of the Petstore is to sell pets online.
 
@@ -107,7 +107,7 @@ I use [Silk Icons](http://www.famfamfam.com/lab/icons/silk/) which are in Creati
 Some people who worked on this project :
 
 * [Antoine Sabot-Durand](https://twitter.com/#*/antoine_sd)
-* [Brice Leporini](https://twitter.com/#!/blep)
+* [Brice Leporini](https://twitter.com/#*/blep)
 * Hervé Le Morvan
 
 ## Bugs & Workaround
@@ -121,4 +121,4 @@ Some people who worked on this project :
 <div class="footer">
     <span class="footerTitle"><span class="uc">a</span>ntonio <span class="uc">g</span>oncalves</span>
 </div>
- 
+  
